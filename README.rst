@@ -13,3 +13,7 @@ for example
     python pathto/web2py-unpacker/unpackw2p.py
 
 The result will be a new directory called 'unpacked' containing all the web2py code.
+
+Author
+--------
+David Bain "pigeonflight- [at] -gmail.com"
